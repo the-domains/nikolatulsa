@@ -1,0 +1,28 @@
+name: nikolatulsa
+favicon: null
+layout_spectrum: 0.9161384403705597
+typography_spectrum: 0.8260285502765328
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.10587818128988147
+  lightness: 0.7102146726101637
+  saturation: 0.6069182120263577
+  rhythmicContrast: 0.13793195714242756
+purpose: []
